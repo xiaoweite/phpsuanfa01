@@ -1,4 +1,5 @@
 <?php
+    // 性能最差的冒泡排序方法
     header("Content-type:text/html;charset=utf-8");
     function maopao($arr) {
     $len = count($arr);  //计算数字长度

@@ -44,7 +44,7 @@
         }
         return $arr;
     }
-
+    echo "冒泡排序法:<br/>";
     $arr = array(121,656,8997,11,56456,778,65454,314354,1121);
     echo "排序前:";
     foreach ($arr as $k => $val) {

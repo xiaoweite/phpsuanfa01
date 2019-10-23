@@ -48,7 +48,7 @@
     $arr = array(121,656,8997,11,56456,778,65454,314354,1121);
     echo "排序前:";
     foreach ($arr as $k => $val) {
-        echo $val.' ';
+        echo $val.' 111';
     }
     echo "<br>方法一排序后:";
     $arr = maopao1($arr);
